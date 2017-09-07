@@ -1,0 +1,81 @@
+.white-text{
+    
+    color:white;
+    font-size:20px;
+}
+
+.margin-not-zero{
+    margin-top: 5px !important;
+}
+
+.my-navbar{
+    height:10px;
+    margin-bottom:11px;
+    background-color: #2e5c87 !important;
+    width:100% !important;
+    border-radius:0px !important;
+    padding-right: 0px !important;
+}
+.lobster-font{
+    font-family: 'Lobster', cursive !important;
+    font-size:35px;
+    color: #2e5c87 !important;
+
+}
+.search-box{
+    background-color: #577d9e !important;
+   
+}
+
+input[type="text"].search-box::-webkit-input-placeholder {
+  color: white !important;
+    font-family: 'Raleway', sans-serif !important;
+}
+.second-nav-buttons{
+    padding:11px 12px !important;
+    background-color:white !important;
+    font-size:20px !important;
+    color: #4f7b9e !important;
+}
+.third-nav-p{
+    font-size:35px !important;
+    border-bottom:0.5px solid #f0f0f0;
+}
+
+.raleway-font{
+    font-family: 'Raleway', sans-serif !important;
+}
+.second-nav{
+    border-bottom:0.5px solid #f0f0f0;
+}
+.font-30{
+    font-size:25px !important;
+}
+.well-changes
+{
+    background-color: white !important;
+    border-radius:0px !important;
+}
+.blue-font{
+ color: #2e5c87 !important;
+}
+
+.button-changes{
+    border-radius: 0px !important;
+    background-color:#2e5c87 !important;
+    padding:7px 18px !important;
+}
+.input-text-changes{
+    border-radius: 0px !important;
+    background-color: #fbffbf;
+}
+.well-sm-changes
+{
+    margin-bottom:0px !important;
+    border-radius:0px !important;
+    
+}
+.p-changes{
+    font-size:12px;
+    color:darkgrey;
+}
